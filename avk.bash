@@ -18,6 +18,6 @@ make -j
 
 cd ..
 
-cd tests/private/avk
+#cd tests/private/avk
 
-./run_avk.py /home/phiram01/dev/dynamorio_build/bin64/drrun sve2_v0.0/build/sve/scapa-00rel0/tests --results results.json
+#./run_avk.py /home/phiram01/dev/dynamorio_build/bin64/drrun sve2_v0.0/build/sve/scapa-00rel0/tests --results results.json
