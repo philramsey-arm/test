@@ -9,9 +9,9 @@ pipeline {
           ssh -i ${keyfile} phiram01@dsg-hive-d9000-01.cambridge.arm.com
           hostname
           exit
-'''
+          '''
+        }
       }
     }
-
   }
 }
